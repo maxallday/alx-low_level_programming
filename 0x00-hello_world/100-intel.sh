@@ -1,0 +1,3 @@
+#!/bin/bash
+gcc -S -masm=intel CFILE -o main.s
+
