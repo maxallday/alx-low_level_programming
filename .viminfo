@@ -15,11 +15,21 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1694421652,,"wq"
-:weq
-|2,0,1693908516,,"weq"
+|2,0,1694954131,,"wq"
+:sq
+|2,0,1694775468,,"sq"
+:'<,'>wq
+|2,0,1694774513,,"'<,'>wq"
+:q
+|2,0,1694770271,,"q"
 :wq!
-|2,0,1693904280,,"wq!"
+|2,0,1694701326,,"wq!"
+:weq
+|2,0,1694695711,,"weq"
+::wq
+|2,0,1694675230,,":wq"
+:WQ
+|2,0,1694461099,,"WQ"
 :qa!
 |2,0,1693592519,,"qa!"
 :qa
@@ -30,10 +40,6 @@
 |2,0,1693592282,,"!q"
 :recover
 |2,0,1693592127,,"recover"
-::wq
-|2,0,1693492201,,":wq"
-:q
-|2,0,1693489789,,"q"
 :w
 |2,0,1693489766,,"w"
 
@@ -62,230 +68,862 @@
 |3,1,36,0,1,0,1693512659,"/"
 
 # File marks:
-'0  6  0  ~/Betty/betty.sh
-|4,48,6,0,1694421652,"~/Betty/betty.sh"
-'1  6  0  ~/Betty/betty.sh
-|4,49,6,0,1694421387,"~/Betty/betty.sh"
-'2  4  41  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir.sh
-|4,50,4,41,1694017861,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir.sh"
-'3  3  29  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd.sh
-|4,51,3,29,1694017706,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd.sh"
-'4  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,52,4,0,1694017564,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
-'5  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,53,1,0,1694017518,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
-'6  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,54,1,0,1694017518,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
-'7  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh
-|4,55,4,0,1694017255,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh"
-'8  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh
-|4,56,4,0,1694017227,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh"
-'9  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh
-|4,57,4,0,1694017089,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh"
+'0  37  0  ~/alx-low_level_programming/3-print_remaining_days.c
+|4,48,37,0,1694954131,"~/alx-low_level_programming/3-print_remaining_days.c"
+'1  52  0  ~/alx-low_level_programming/3-convert_day.c
+|4,49,52,0,1694954067,"~/alx-low_level_programming/3-convert_day.c"
+'2  27  0  ~/alx-low_level_programming/3-main_a.c
+|4,50,27,0,1694954007,"~/alx-low_level_programming/3-main_a.c"
+'3  17  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c
+|4,51,17,0,1694951774,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c"
+'4  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+|4,52,20,0,1694951602,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
+'5  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
+|4,53,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
+'6  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
+|4,54,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
+'7  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
+|4,55,10,21,1694951529,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
+'8  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+|4,56,20,0,1694951435,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
+'9  25  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
+|4,57,25,0,1694950181,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
 
 # Jumplist (newest first):
--'  6  0  ~/Betty/betty.sh
-|4,39,6,0,1694421652,"~/Betty/betty.sh"
--'  6  0  ~/Betty/betty.sh
-|4,39,6,0,1694421387,"~/Betty/betty.sh"
--'  1  0  ~/Betty/betty.sh
-|4,39,1,0,1694421346,"~/Betty/betty.sh"
--'  1  0  ~/Betty/betty.sh
-|4,39,1,0,1694421346,"~/Betty/betty.sh"
--'  4  41  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir.sh
-|4,39,4,41,1694017861,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir.sh"
--'  4  41  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir.sh
-|4,39,4,41,1694017861,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir.sh"
--'  4  41  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir.sh
-|4,39,4,41,1694017861,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir.sh"
--'  4  41  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir.sh
-|4,39,4,41,1694017861,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir.sh
-|4,39,1,0,1694017758,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir.sh
-|4,39,1,0,1694017758,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir.sh
-|4,39,1,0,1694017758,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir.sh
-|4,39,1,0,1694017758,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir.sh"
--'  3  29  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd.sh
-|4,39,3,29,1694017706,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd.sh"
--'  3  29  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd.sh
-|4,39,3,29,1694017706,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd.sh"
--'  3  29  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd.sh
-|4,39,3,29,1694017706,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd.sh"
--'  3  29  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd.sh
-|4,39,3,29,1694017706,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd.sh"
--'  3  29  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd.sh
-|4,39,3,29,1694017706,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd.sh"
--'  3  29  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd.sh
-|4,39,3,29,1694017706,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd.sh"
--'  3  29  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd.sh
-|4,39,3,29,1694017706,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd.sh"
--'  3  29  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd.sh
-|4,39,3,29,1694017706,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd.sh
-|4,39,1,0,1694017650,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd.sh
-|4,39,1,0,1694017650,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd.sh
-|4,39,1,0,1694017650,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd.sh
-|4,39,1,0,1694017650,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd.sh
-|4,39,1,0,1694017650,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd.sh
-|4,39,1,0,1694017650,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd.sh
-|4,39,1,0,1694017650,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd.sh
-|4,39,1,0,1694017650,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,4,0,1694017564,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,4,0,1694017564,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,4,0,1694017564,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,4,0,1694017564,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,4,0,1694017564,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,4,0,1694017564,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,4,0,1694017564,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,4,0,1694017564,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,4,0,1694017564,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,4,0,1694017564,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,4,0,1694017564,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,4,0,1694017564,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,4,0,1694017564,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,4,0,1694017564,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,4,0,1694017564,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,4,0,1694017564,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,1,0,1694017530,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,1,0,1694017530,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,1,0,1694017530,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,1,0,1694017530,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,1,0,1694017530,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,1,0,1694017530,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,1,0,1694017530,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,1,0,1694017530,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,1,0,1694017530,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,1,0,1694017530,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,1,0,1694017530,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,1,0,1694017530,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,1,0,1694017530,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,1,0,1694017530,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,1,0,1694017530,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,1,0,1694017530,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,1,0,1694017518,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,1,0,1694017518,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,1,0,1694017518,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,1,0,1694017518,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,1,0,1694017518,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,1,0,1694017518,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,1,0,1694017518,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,1,0,1694017518,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,1,0,1694017518,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,1,0,1694017518,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,1,0,1694017518,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,1,0,1694017518,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,1,0,1694017518,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,1,0,1694017518,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,1,0,1694017518,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh
-|4,39,1,0,1694017518,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh
-|4,39,4,0,1694017255,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh
-|4,39,4,0,1694017255,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh
-|4,39,4,0,1694017255,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh
-|4,39,4,0,1694017255,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh
-|4,39,4,0,1694017255,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh
-|4,39,4,0,1694017255,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh
-|4,39,4,0,1694017255,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh
-|4,39,4,0,1694017255,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh
-|4,39,4,0,1694017255,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh
-|4,39,4,0,1694017255,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh
-|4,39,4,0,1694017255,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh
-|4,39,4,0,1694017255,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh
-|4,39,4,0,1694017255,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh
-|4,39,4,0,1694017255,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh
-|4,39,4,0,1694017255,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh
-|4,39,4,0,1694017255,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh
-|4,39,4,0,1694017255,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh
-|4,39,4,0,1694017255,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh
-|4,39,4,0,1694017255,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh
-|4,39,4,0,1694017255,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh
-|4,39,4,0,1694017255,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh
-|4,39,4,0,1694017255,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh
-|4,39,4,0,1694017255,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh"
--'  4  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh
-|4,39,4,0,1694017255,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal.sh"
+-'  37  0  ~/alx-low_level_programming/3-print_remaining_days.c
+|4,39,37,0,1694954131,"~/alx-low_level_programming/3-print_remaining_days.c"
+-'  1  0  ~/alx-low_level_programming/3-print_remaining_days.c
+|4,39,1,0,1694954099,"~/alx-low_level_programming/3-print_remaining_days.c"
+-'  52  0  ~/alx-low_level_programming/3-convert_day.c
+|4,39,52,0,1694954067,"~/alx-low_level_programming/3-convert_day.c"
+-'  52  0  ~/alx-low_level_programming/3-convert_day.c
+|4,39,52,0,1694954067,"~/alx-low_level_programming/3-convert_day.c"
+-'  1  0  ~/alx-low_level_programming/3-convert_day.c
+|4,39,1,0,1694954045,"~/alx-low_level_programming/3-convert_day.c"
+-'  1  0  ~/alx-low_level_programming/3-convert_day.c
+|4,39,1,0,1694954045,"~/alx-low_level_programming/3-convert_day.c"
+-'  27  0  ~/alx-low_level_programming/3-main_a.c
+|4,39,27,0,1694954007,"~/alx-low_level_programming/3-main_a.c"
+-'  27  0  ~/alx-low_level_programming/3-main_a.c
+|4,39,27,0,1694954007,"~/alx-low_level_programming/3-main_a.c"
+-'  27  0  ~/alx-low_level_programming/3-main_a.c
+|4,39,27,0,1694954007,"~/alx-low_level_programming/3-main_a.c"
+-'  27  0  ~/alx-low_level_programming/3-main_a.c
+|4,39,27,0,1694954007,"~/alx-low_level_programming/3-main_a.c"
+-'  1  0  ~/alx-low_level_programming/3-main_a.c
+|4,39,1,0,1694953978,"~/alx-low_level_programming/3-main_a.c"
+-'  1  0  ~/alx-low_level_programming/3-main_a.c
+|4,39,1,0,1694953978,"~/alx-low_level_programming/3-main_a.c"
+-'  1  0  ~/alx-low_level_programming/3-main_a.c
+|4,39,1,0,1694953978,"~/alx-low_level_programming/3-main_a.c"
+-'  1  0  ~/alx-low_level_programming/3-main_a.c
+|4,39,1,0,1694953978,"~/alx-low_level_programming/3-main_a.c"
+-'  17  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c
+|4,39,17,0,1694951774,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c"
+-'  17  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c
+|4,39,17,0,1694951774,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c"
+-'  17  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c
+|4,39,17,0,1694951774,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c"
+-'  17  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c
+|4,39,17,0,1694951774,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c"
+-'  17  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c
+|4,39,17,0,1694951774,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c"
+-'  17  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c
+|4,39,17,0,1694951774,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c"
+-'  17  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c
+|4,39,17,0,1694951774,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c"
+-'  17  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c
+|4,39,17,0,1694951774,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c"
+-'  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+|4,39,20,0,1694951602,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
+-'  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+|4,39,20,0,1694951602,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
+-'  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+|4,39,20,0,1694951602,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
+-'  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+|4,39,20,0,1694951602,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
+-'  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+|4,39,20,0,1694951602,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
+-'  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+|4,39,20,0,1694951602,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
+-'  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+|4,39,20,0,1694951602,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
+-'  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+|4,39,20,0,1694951602,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
+-'  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+|4,39,20,0,1694951602,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
+-'  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+|4,39,20,0,1694951602,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
+-'  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+|4,39,20,0,1694951602,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
+-'  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+|4,39,20,0,1694951602,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
+-'  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+|4,39,20,0,1694951602,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
+-'  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+|4,39,20,0,1694951602,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
+-'  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+|4,39,20,0,1694951602,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
+-'  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+|4,39,20,0,1694951602,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
+-'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
+|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
+-'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
+|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
+-'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
+|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
+-'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
+|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
+-'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
+|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
+-'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
+|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
+-'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
+|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
+-'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
+|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
+-'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
+|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
+-'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
+|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
+-'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
+|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
+-'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
+|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
+-'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
+|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
+-'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
+|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
+-'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
+|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
+-'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
+|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
+-'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
+|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
+-'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
+|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
+-'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
+|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
+-'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
+|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
+-'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
+|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
+-'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
+|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
+-'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
+|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
+-'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
+|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
+-'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
+|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
+-'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
+|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
+-'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
+|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
+-'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
+|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
+-'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
+|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
+-'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
+|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
+-'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
+|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
+-'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
+|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
+-'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
+|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
+-'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
+|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
+-'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
+|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
+-'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
+|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
+-'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
+|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
+-'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
+|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
+-'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
+|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
+-'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
+|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
+-'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
+|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
+-'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
+|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
+-'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
+|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
+-'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
+|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
+-'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
+|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
+-'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
+|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
+-'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
+|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
+-'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
+|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
+-'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
+|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
+-'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
+|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
+-'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
+|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
+-'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
+|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
+-'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
+|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
+-'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
+|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
+-'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
+|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
+-'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
+|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
+-'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
+|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
+-'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
+|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
+-'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
+|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
+-'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
+|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
+-'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
+|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
+-'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
+|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
 
 # History of marks within files (newest to oldest):
+
+> ~/alx-low_level_programming/3-print_remaining_days.c
+	*	1694954124	0
+	"	37	0
+	^	37	1
+	.	37	0
+	+	37	0
+
+> ~/alx-low_level_programming/3-convert_day.c
+	*	1694954064	0
+	"	52	0
+	^	52	1
+	.	52	0
+	+	52	0
+
+> ~/alx-low_level_programming/3-main_a.c
+	*	1694954003	0
+	"	27	0
+	^	27	1
+	.	27	0
+	+	27	0
+
+> ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c
+	*	1694951773	0
+	"	17	0
+	^	17	1
+	.	17	0
+	+	17	0
+
+> ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+	*	1694951601	0
+	"	20	0
+	^	20	1
+	.	20	0
+	+	20	0
+
+> ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
+	*	1694951584	0
+	"	6	32
+	^	6	33
+	.	6	32
+	+	6	32
+
+> ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
+	*	1694951570	0
+	"	10	21
+	^	10	22
+	.	10	22
+	+	25	0
+	+	14	44
+	+	10	22
+
+> ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/1-main.c
+	*	1694949444	0
+	"	18	30
+	^	18	31
+	.	18	30
+	+	24	0
+	+	18	30
+
+> ~/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
+	*	1694945936	0
+	"	17	0
+	^	17	1
+	.	17	0
+	+	20	0
+	+	13	41
+	+	13	200
+	+	13	137
+	+	3	17
+	+	13	19
+	+	13	50
+	+	13	70
+	+	13	137
+	+	13	110
+	+	13	99
+	+	13	102
+	+	13	82
+	+	13	31
+	+	13	82
+	+	13	31
+	+	13	82
+	+	17	0
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/school.mgc
+	*	1694936157	0
+	"	8	42
+	^	8	43
+	.	8	42
+	+	1	10
+	+	2	27
+	+	8	42
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/103-commas.sh
+	*	1694935656	0
+	"	1	10
+	^	1	11
+	.	1	10
+	+	1	10
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/102-tree.sh
+	*	1694935281	0
+	"	19	7
+	^	19	8
+	.	19	7
+	+	19	7
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/101-clean_emacs.sh
+	*	1694935113	0
+	"	10	3
+	^	10	4
+	.	10	3
+	+	10	3
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/100-lets_move.sh
+	*	1694934843	0
+	"	10	3
+	^	10	4
+	.	10	3
+	+	10	3
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/3-listfiles.sh
+	*	1694934807	0
+	"	1	0
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/100-lets_move
+	*	1694934785	0
+	"	9	0
+	^	9	1
+	.	1	1
+	+	10	4
+	+	1	1
+
+> ~/alx-low_level_programming/0x02-functions_nested_loops/104-fibonacci.c
+	*	1694776350	0
+	"	33	0
+	^	33	0
+	.	32	1
+	+	32	1
+
+> ~/alx-low_level_programming/0x02-functions_nested_loops/103-fibonacci.c
+	*	1694776142	0
+	"	33	0
+	^	33	0
+	.	32	1
+	+	32	1
+
+> ~/alx-low_level_programming/0x02-functions_nested_loops/102-fibonacci.c
+	*	1694775633	0
+	"	43	0
+	^	43	0
+	.	42	1
+	+	42	1
+
+> ~/alx-low_level_programming/0x02-functions_nested_loops/101-natural.c
+	*	1694775471	0
+	"	18	0
+	^	18	1
+	.	18	0
+	+	18	0
+
+> ~/alx-low_level_programming/0x02-functions_nested_loops/100-times_table.c
+	*	1694774881	0
+	"	18	0
+	^	18	0
+	.	17	1
+	+	17	1
+
+> ~/alx-low_level_programming/0x02-functions_nested_loops/11-print_to_98.c
+	*	1694774516	0
+	"	23	0
+	^	24	0
+	.	23	1
+	+	23	1
+
+> ~/alx-low_level_programming/0x02-functions_nested_loops/10-add.c
+	*	1694774419	0
+	"	10	0
+	^	10	0
+	.	9	1
+	+	9	1
+
+> ~/alx-low_level_programming/0x02-functions_nested_loops/9-times_table.c
+	*	1694774148	0
+	"	30	0
+	^	30	0
+	.	29	1
+	+	29	1
+
+> ~/alx-low_level_programming/0x02-functions_nested_loops/8-24_hours.c
+	*	1694773562	0
+	"	20	0
+	^	20	0
+	.	19	1
+	+	19	1
+
+> ~/alx-low_level_programming/0x02-functions_nested_loops/7-print_last_digit.c
+	*	1694772721	0
+	"	15	0
+	^	15	0
+	.	14	1
+	+	14	1
+
+> ~/alx-low_level_programming/0x02-functions_nested_loops/6-abs.c
+	*	1694772020	0
+	"	14	0
+	^	14	0
+	.	13	1
+	+	13	1
+
+> ~/alx-low_level_programming/0x02-functions_nested_loops/5-sign.c
+	*	1694771726	0
+	"	21	0
+	^	21	0
+	.	20	1
+	+	20	1
+
+> ~/alx-low_level_programming/0x02-functions_nested_loops/4-isalpha.c
+	*	1694771129	0
+	"	14	0
+	^	14	0
+	.	13	1
+	+	13	1
+
+> ~/alx-low_level_programming/0x02-functions_nested_loops/2-print_alphabet_x10.c
+	*	1694770809	0
+	"	21	0
+	^	21	0
+	.	20	1
+	+	1	239
+	+	1	207
+	+	1	163
+	+	20	1
+
+> ~/alx-low_level_programming/0x02-functions_nested_loops/_putchar.c
+	*	1694770749	0
+	"	1	0
+
+> ~/alx-low_level_programming/0x02-functions_nested_loops/2-main.c
+	*	1694769737	0
+	"	12	0
+	^	12	1
+	.	12	0
+	+	12	0
+
+> ~/alx-low_level_programming/0x02-functions_nested_loops/1-alphabet.c
+	*	1694769271	0
+	"	20	1
+	^	20	2
+	.	20	2
+	+	1	120
+	+	1	160
+	+	1	100
+	+	1	129
+	+	1	146
+	+	1	158
+	+	24	0
+	+	1	16
+	+	17	3
+	+	20	2
+
+> ~/alx-low_level_programming/0x02-functions_nested_loops/1-main.c
+	*	1694764321	0
+	"	12	0
+	^	12	1
+	.	12	0
+	+	12	0
+
+> ~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c
+	*	1694762674	0
+	"	8	0
+	^	8	0
+	.	7	1
+	+	7	1
+
+> ~/alx-low_level_programming/0-putchar.c
+	*	1694762322	0
+	"	4	18
+	^	4	19
+	.	4	18
+	+	6	0
+	+	4	18
+
+> ~/alx-low_level_programming/0x01-variables_if_else_while/102-print_comb5.c
+	*	1694722778	0
+	"	39	0
+	^	39	0
+	.	38	1
+	+	1	561
+	+	1	527
+	+	1	403
+	+	1	303
+	+	1	249
+	+	1	208
+	+	1	266
+	+	1	476
+	+	1	478
+	+	1	229
+	+	1	107
+	+	2	0
+	+	38	1
+
+> ~/alx-low_level_programming/0x01-variables_if_else_while/101-print_comb4.c
+	*	1694721547	0
+	"	8	1
+	^	8	2
+	.	8	1
+	+	29	1
+	+	8	1
+
+> ~/alx-low_level_programming/0x01-variables_if_else_while/100-print_comb3.c
+	*	1694721286	0
+	"	33	0
+	^	33	0
+	.	33	0
+	+	33	0
+	+	9	1
+	+	33	0
+
+> ~/alx-low_level_programming/0x01-variables_if_else_while/9-print_comb.c
+	*	1694720949	0
+	"	26	0
+	^	25	14
+	.	25	14
+	+	24	17
+	+	10	1
+	+	24	19
+	+	25	14
+
+> ~/alx-low_level_programming/0x01-variables_if_else_while/8-print_base16.c
+	*	1694720526	0
+	"	3	1
+	^	3	2
+	.	3	1
+	+	17	0
+	+	2	93
+	+	3	1
+
+> ~/alx-low_level_programming/0x01-variables_if_else_while/7-print_tebahpla.c
+	*	1694720169	0
+	"	7	1
+	^	7	2
+	.	7	1
+	+	18	0
+	+	1	1
+	+	7	1
+
+> ~/alx-low_level_programming/0x01-variables_if_else_while/6-print_numberz.c
+	*	1694705234	0
+	"	3	0
+	^	3	0
+	.	7	9
+	+	15	5
+	+	7	12
+	+	15	5
+	+	9	12
+	+	7	9
+
+> ~/alx-low_level_programming/0x01-variables_if_else_while/5-print_numbers.c
+	*	1694703970	0
+	"	3	2
+	^	3	3
+	.	3	2
+	+	16	0
+	+	13	4
+	+	10	0
+	+	3	2
+
+> ~/alx-low_level_programming/0x01-variables_if_else_while/4-print_alphabt.c
+	*	1694703598	0
+	"	18	0
+	^	18	0
+	.	17	0
+	+	3	3
+	+	2	15
+	+	19	0
+	+	6	5
+	+	6	0
+	+	18	0
+	+	17	0
+
+> ~/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c
+	*	1694702982	0
+	"	10	13
+	^	10	14
+	.	10	13
+	+	1	17
+	+	5	0
+	+	22	0
+	+	21	5
+	+	20	6
+	+	24	11
+	+	16	14
+	+	6	13
+	+	19	12
+	+	16	0
+	+	8	16
+	+	15	0
+	+	12	3
+	+	14	13
+	+	13	15
+	+	14	14
+	+	16	18
+	+	17	13
+	+	9	2
+	+	17	14
+	+	7	4
+	+	10	18
+	+	11	0
+	+	13	11
+	+	14	14
+	+	10	13
+
+> ~/alx-low_level_programming/0x01-variables_if_else_while/3-print_alphabets.c
+	*	1694702712	0
+	"	7	3
+	^	7	4
+	.	7	4
+	+	27	0
+	+	24	4
+	+	17	4
+	+	14	3
+	+	7	4
+
+> ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c
+	*	1694698536	0
+	"	11	24
+	^	11	25
+	.	11	24
+	+	36	0
+	+	22	0
+	+	3	8
+	+	34	0
+	+	22	236
+	+	22	185
+	+	22	162
+	+	22	135
+	+	22	96
+	+	22	53
+	+	22	0
+	+	22	125
+	+	22	92
+	+	22	46
+	+	22	70
+	+	22	44
+	+	18	31
+	+	22	98
+	+	22	91
+	+	22	52
+	+	22	100
+	+	18	7
+	+	14	8
+	+	18	7
+	+	22	5
+	+	20	24
+	+	17	8
+	+	20	1
+	+	14	31
+	+	17	6
+	+	15	7
+	+	20	20
+	+	20	0
+	+	16	0
+	+	20	0
+	+	21	0
+	+	22	27
+	+	15	6
+	+	15	18
+	+	22	10
+	+	15	6
+	+	16	0
+	+	22	7
+	+	18	21
+	+	22	65
+	+	22	186
+	+	22	64
+	+	22	113
+	+	22	65
+	+	22	202
+	+	22	64
+	+	22	228
+	+	22	171
+	+	22	255
+	+	23	252
+	+	23	54
+	+	33	0
+	+	24	44
+	+	32	4
+	+	25	4
+	+	26	0
+	+	11	24
+
+> ~/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit
+	*	1694691552	0
+	"	1	1
+
+> ~/alx-low_level_programming/0x00-hello_world/101-quote.c
+	*	1694507948	0
+	"	7	14
+	^	7	15
+	.	7	14
+	+	8	0
+	+	4	105
+	+	1	18
+	+	7	14
+
+> ~/alx-low_level_programming/0x00-hello_world/100-intel.sh
+	*	1694503782	0
+	"	2	2
+	^	2	3
+	.	2	3
+	+	2	3
+
+> ~/alx-low_level_programming/0x00-hello_world/size32.sh
+	*	1694461515	0
+	"	1	10
+	^	1	11
+	.	2	0
+	+	1	11
+	+	2	0
+
+> ~/alx-low_level_programming/0x00-hello_world/6-size.c
+	*	1694461024	0
+	"	13	0
+	^	13	0
+	.	12	1
+	+	1	133
+	+	1	131
+	+	1	128
+	+	1	149
+	+	1	353
+	+	1	149
+	+	1	428
+	+	1	159
+	+	1	1133
+	+	1	149
+	+	1	428
+	+	1	410
+	+	1	352
+	+	1	427
+	+	1	18
+	+	1	409
+	+	1	128
+	+	1	591
+	+	1	142
+	+	1	603
+	+	1	1051
+	+	1	584
+	+	1	148
+	+	1	220
+	+	1	296
+	+	1	366
+	+	1	438
+	+	1	515
+	+	1	215
+	+	1	592
+	+	1	590
+	+	12	1
+
+> ~/alx-low_level_programming/0x00-hello_world/4-puts.c
+	*	1694454675	0
+	"	9	59
+	^	9	60
+	.	9	59
+	+	8	4
+	+	9	61
+	+	11	10
+	+	6	2
+	+	5	2
+	+	3	47
+	+	9	59
+
+> ~/alx-low_level_programming/0x00-hello_world/a.out
+	*	1694454491	0
+	"	1	0
+
+> ~/alx-low_level_programming/0x00-hello_world/5-printf.c
+	*	1694454420	0
+	"	1	3
+	^	5	4
+	.	5	3
+	+	2	0
+	+	1	18
+	+	3	16
+	+	8	0
+	+	7	10
+	+	5	3
+
+> ~/alx-low_level_programming/0x00-hello_world/3-name.sh
+	*	1694449841	0
+	"	2	17
+	^	2	18
+	.	2	18
+	+	2	18
+
+> ~/alx-low_level_programming/0x00-hello_world/2-assembler.sh
+	*	1694447919	0
+	"	2	20
+	^	2	21
+	.	2	20
+	+	1	11
+	+	3	0
+	+	2	20
+
+> ~/alx-low_level_programming/0x00-hello_world/1-compiler.sh
+	*	1694446921	0
+	"	3	0
+	^	3	0
+	.	2	40
+	+	1	11
+	+	2	40
+
+> ~/alx-low_level_programming/0-preprocessor.sh
+	*	1694443292	0
+	"	2	14
+	^	2	15
+	.	2	14
+	+	1	11
+	+	2	14
+
+> ~/alx-low_level_programming/main.c
+	*	1694442970	0
+	"	9	0
+	^	9	1
+	.	9	0
+	+	1	18
+	+	1	91
+	+	1	90
+	+	1	99
+	+	1	109
+	+	1	194
+	+	9	0
 
 > ~/Betty/betty.sh
 	*	1694421650	0
@@ -581,353 +1219,3 @@
 	^	3	45
 	.	3	45
 	+	3	45
-
-> ~/alx-system_engineering-devops/0x02-shell_redirections/9-duplicate_last_line.sh
-	*	1693838788	0
-	"	3	27
-	^	3	28
-	.	3	27
-	+	2	82
-	+	3	27
-
-> ~/alx-system_engineering-devops/0x02-shell_redirections/8-cwd_state.sh
-	*	1693838013	0
-	"	2	25
-	^	2	26
-	.	2	25
-	+	2	25
-
-> ~/alx-system_engineering-devops/0x02-shell_redirections/7-file.sh
-	*	1693837459	0
-	"	2	79
-	^	2	80
-	.	2	79
-	+	2	79
-
-> ~/alx-system_engineering-devops/0x02-shell_redirections/6-third_line.sh
-	*	1693836364	0
-	"	2	14
-	^	2	15
-	.	2	14
-	+	2	14
-
-> ~/alx-system_engineering-devops/0x02-shell_redirections/5-firstlines.sh
-	*	1693835699	0
-	"	2	24
-	^	2	25
-	.	3	0
-	+	3	0
-
-> ~/alx-system_engineering-devops/0x02-shell_redirections/4-lastlines.sh
-	*	1693835534	0
-	"	2	24
-	^	2	25
-	.	2	24
-	+	2	24
-
-> ~/alx-system_engineering-devops/0x02-shell_redirections/3-twofiles.sh
-	*	1693835332	0
-	"	2	15
-	^	2	16
-	.	3	0
-	+	2	16
-	+	3	0
-
-> ~/alx-system_engineering-devops/0x02-shell_redirections/2-hellofile.sh
-	*	1693835032	0
-	"	2	3
-	^	2	4
-	.	2	3
-	+	1	11
-	+	2	3
-
-> ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world.sh
-	*	1693834161	0
-	"	3	19
-	^	3	20
-	.	3	19
-	+	1	11
-	+	3	19
-
-> ~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley.sh
-	*	1693834073	0
-	"	2	13
-	^	2	14
-	.	2	13
-	+	3	10
-	+	1	11
-	+	2	13
-
-> ~/alx-system_engineering-devops/1-confused_smiley.sh
-	*	1693831726	0
-	"	4	0
-	^	4	0
-	.	3	15
-	+	3	15
-
-> ~/alx-system_engineering-devops/0-hello_world.sh
-	*	1693831462	0
-	"	2	39
-	^	2	40
-	.	2	39
-	+	2	39
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars.sh
-	*	1693655815	0
-	"	2	28
-	^	2	29
-	.	2	28
-	+	2	28
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/change_owner.sh
-	*	1693655267	0
-	"	1	10
-	^	3	22
-	.	3	21
-	+	4	1
-	+	3	21
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group.sh
-	*	1693654454	0
-	"	2	23
-	^	2	24
-	.	2	23
-	+	2	23
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions.sh
-	*	1693653909	0
-	"	3	22
-	^	3	23
-	.	3	22
-	+	1	11
-	+	2	18
-	+	3	20
-	+	2	20
-	+	3	22
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group.sh
-	*	1693596817	0
-	"	2	4
-	^	2	5
-	.	2	4
-	+	2	4
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions.sh
-	*	1693596383	0
-	"	2	21
-	^	2	22
-	.	2	21
-	+	2	21
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions.sh
-	*	1693596245	0
-	"	2	13
-	^	2	14
-	.	2	13
-	+	2	13
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions.sh
-	*	1693595872	0
-	"	2	22
-	^	2	23
-	.	2	22
-	+	2	22
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/9-John_Doe.sh
-	*	1693595066	0
-	"	2	4
-	^	2	5
-	.	2	5
-	+	2	5
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond.sh
-	*	1693594578	0
-	"	2	26
-	^	2	27
-	.	2	26
-	+	2	26
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/7-everybody.sh
-	*	1693593942	0
-	"	2	25
-	^	2	26
-	.	2	25
-	+	2	25
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/5-execute.sh
-	*	1693593330	0
-	"	2	16
-	^	2	17
-	.	2	16
-	+	2	16
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/5-execute
-	*	1693593273	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	1	0
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/2-groups.sh
-	*	1693593145	0
-	"	2	10
-	^	2	11
-	.	2	10
-	+	1	2
-	+	2	10
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/hello
-	*	1693593017	0
-	"	1	0
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions.sh
-	*	1693592757	0
-	"	3	0
-	^	3	0
-	.	2	26
-	+	2	25
-	+	2	26
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/4-empty.sh
-	*	1693583440	0
-	"	2	9
-	^	2	10
-	.	2	10
-	+	2	10
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/3-new_owner.sh
-	*	1693583028	0
-	"	3	0
-	^	3	0
-	.	3	0
-	+	3	0
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/0-iam_betty.sh
-	*	1693581880	0
-	"	2	8
-	^	2	9
-	.	2	9
-	+	1	0
-	+	2	9
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i.sh
-	*	1693581719	0
-	"	2	6
-	^	2	7
-	.	2	7
-	+	2	7
-
-> ~/alx-system_engineering-devops/0x00-shell_basics/14-copy_html.sh
-	*	1693514648	0
-	"	2	5
-	^	2	6
-	.	2	5
-	+	2	5
-
-> ~/alx-system_engineering-devops/0x00-shell_basics/13-symbolic_link.sh
-	*	1693513879	0
-	"	2	19
-	^	2	20
-	.	2	19
-	+	2	19
-
-> ~/alx-system_engineering-devops/0x00-shell_basics/12-file_type.sh
-	*	1693513368	0
-	"	2	22
-	^	2	23
-	.	2	22
-	+	2	22
-
-> ~/alx-system_engineering-devops/0x00-shell_basics/11-lists.sh
-	*	1693512666	0
-	"	2	3
-	^	2	6
-	.	2	3
-	+	2	3
-
-> ~/alx-system_engineering-devops/0x00-shell_basics/10-back.sh
-	*	1693512576	0
-	"	2	4
-	^	2	5
-	.	2	4
-	+	2	4
-
-> ~/alx-system_engineering-devops/0x00-shell_basics/9-firstdirdeletion.sh
-	*	1693511042	0
-	"	2	28
-	^	2	29
-	.	2	28
-	+	2	28
-
-> ~/alx-system_engineering-devops/0x00-shell_basics/8-firstdelete.sh
-	*	1693510310	0
-	"	2	31
-	^	2	32
-	.	2	31
-	+	2	31
-	b	2	0
-	m	2	0
-	r	2	0
-
-> ~/alx-system_engineering-devops/0x00-shell_basics/7-movethatfile.sh
-	*	1693508608	0
-	"	2	36
-	^	2	37
-	.	2	36
-	+	1	11
-	+	2	36
-	m	1	14
-	p	1	11
-	u	1	11
-	v	1	11
-
-> ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory.sh
-	*	1693501107	0
-	"	2	28
-	^	2	29
-	.	2	28
-	+	2	28
-	k	2	0
-
-> ~/alx-system_engineering-devops/0x00-shell_basics/5-listfilesdigitonly.sh
-	*	1693493601	0
-	"	2	6
-	^	2	7
-	.	2	6
-	+	2	6
-
-> ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles.sh
-	*	1693493267	0
-	"	2	6
-	^	2	7
-	.	2	6
-	+	2	11
-	+	2	1
-	+	2	6
-
-> ~/alx-system_engineering-devops/0x00-shell_basics/3-listfiles.sh
-	*	1693492519	0
-	"	2	4
-	^	2	5
-	.	2	4
-	+	1	11
-	+	2	4
-
-> ~/alx-system_engineering-devops/0x00-shell_basics/2-bring_me_home.sh
-	*	1693492181	0
-	"	3	0
-	^	3	0
-	.	2	3
-	+	1	11
-	+	2	3
-
-> ~/alx-system_engineering-devops/0x00-shell_basics/1-listit.sh
-	*	1693491274	0
-	"	2	3
-	^	2	4
-	.	2	3
-	+	1	11
-	+	2	3
-	+	2	7
-	+	2	5
-	+	2	3
