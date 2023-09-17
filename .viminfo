@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1694954131,,"wq"
+|2,0,1694957410,,"wq"
 :sq
 |2,0,1694775468,,"sq"
 :'<,'>wq
@@ -68,36 +68,50 @@
 |3,1,36,0,1,0,1693512659,"/"
 
 # File marks:
-'0  37  0  ~/alx-low_level_programming/3-print_remaining_days.c
-|4,48,37,0,1694954131,"~/alx-low_level_programming/3-print_remaining_days.c"
-'1  52  0  ~/alx-low_level_programming/3-convert_day.c
-|4,49,52,0,1694954067,"~/alx-low_level_programming/3-convert_day.c"
-'2  27  0  ~/alx-low_level_programming/3-main_a.c
-|4,50,27,0,1694954007,"~/alx-low_level_programming/3-main_a.c"
-'3  17  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c
-|4,51,17,0,1694951774,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c"
-'4  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
-|4,52,20,0,1694951602,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
-'5  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
-|4,53,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
-'6  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
-|4,54,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
+'0  1  0  ~/.git/COMMIT_EDITMSG
+|4,48,1,0,1694957410,"~/.git/COMMIT_EDITMSG"
+'1  37  0  ~/alx-low_level_programming/3-print_remaining_days.c
+|4,49,37,0,1694954131,"~/alx-low_level_programming/3-print_remaining_days.c"
+'2  52  0  ~/alx-low_level_programming/3-convert_day.c
+|4,50,52,0,1694954067,"~/alx-low_level_programming/3-convert_day.c"
+'3  27  0  ~/alx-low_level_programming/3-main_a.c
+|4,51,27,0,1694954007,"~/alx-low_level_programming/3-main_a.c"
+'4  17  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c
+|4,52,17,0,1694951774,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c"
+'5  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+|4,53,20,0,1694951602,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
+'6  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
+|4,54,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
 '7  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
-|4,55,10,21,1694951529,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
-'8  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
-|4,56,20,0,1694951435,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
-'9  25  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
-|4,57,25,0,1694950181,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
+|4,55,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
+'8  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
+|4,56,10,21,1694951529,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
+'9  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+|4,57,20,0,1694951435,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1694957410,"~/.git/COMMIT_EDITMSG"
 -'  37  0  ~/alx-low_level_programming/3-print_remaining_days.c
 |4,39,37,0,1694954131,"~/alx-low_level_programming/3-print_remaining_days.c"
+-'  37  0  ~/alx-low_level_programming/3-print_remaining_days.c
+|4,39,37,0,1694954131,"~/alx-low_level_programming/3-print_remaining_days.c"
+-'  1  0  ~/alx-low_level_programming/3-print_remaining_days.c
+|4,39,1,0,1694954099,"~/alx-low_level_programming/3-print_remaining_days.c"
 -'  1  0  ~/alx-low_level_programming/3-print_remaining_days.c
 |4,39,1,0,1694954099,"~/alx-low_level_programming/3-print_remaining_days.c"
 -'  52  0  ~/alx-low_level_programming/3-convert_day.c
 |4,39,52,0,1694954067,"~/alx-low_level_programming/3-convert_day.c"
 -'  52  0  ~/alx-low_level_programming/3-convert_day.c
 |4,39,52,0,1694954067,"~/alx-low_level_programming/3-convert_day.c"
+-'  52  0  ~/alx-low_level_programming/3-convert_day.c
+|4,39,52,0,1694954067,"~/alx-low_level_programming/3-convert_day.c"
+-'  52  0  ~/alx-low_level_programming/3-convert_day.c
+|4,39,52,0,1694954067,"~/alx-low_level_programming/3-convert_day.c"
+-'  1  0  ~/alx-low_level_programming/3-convert_day.c
+|4,39,1,0,1694954045,"~/alx-low_level_programming/3-convert_day.c"
+-'  1  0  ~/alx-low_level_programming/3-convert_day.c
+|4,39,1,0,1694954045,"~/alx-low_level_programming/3-convert_day.c"
 -'  1  0  ~/alx-low_level_programming/3-convert_day.c
 |4,39,1,0,1694954045,"~/alx-low_level_programming/3-convert_day.c"
 -'  1  0  ~/alx-low_level_programming/3-convert_day.c
@@ -110,6 +124,22 @@
 |4,39,27,0,1694954007,"~/alx-low_level_programming/3-main_a.c"
 -'  27  0  ~/alx-low_level_programming/3-main_a.c
 |4,39,27,0,1694954007,"~/alx-low_level_programming/3-main_a.c"
+-'  27  0  ~/alx-low_level_programming/3-main_a.c
+|4,39,27,0,1694954007,"~/alx-low_level_programming/3-main_a.c"
+-'  27  0  ~/alx-low_level_programming/3-main_a.c
+|4,39,27,0,1694954007,"~/alx-low_level_programming/3-main_a.c"
+-'  27  0  ~/alx-low_level_programming/3-main_a.c
+|4,39,27,0,1694954007,"~/alx-low_level_programming/3-main_a.c"
+-'  27  0  ~/alx-low_level_programming/3-main_a.c
+|4,39,27,0,1694954007,"~/alx-low_level_programming/3-main_a.c"
+-'  1  0  ~/alx-low_level_programming/3-main_a.c
+|4,39,1,0,1694953978,"~/alx-low_level_programming/3-main_a.c"
+-'  1  0  ~/alx-low_level_programming/3-main_a.c
+|4,39,1,0,1694953978,"~/alx-low_level_programming/3-main_a.c"
+-'  1  0  ~/alx-low_level_programming/3-main_a.c
+|4,39,1,0,1694953978,"~/alx-low_level_programming/3-main_a.c"
+-'  1  0  ~/alx-low_level_programming/3-main_a.c
+|4,39,1,0,1694953978,"~/alx-low_level_programming/3-main_a.c"
 -'  1  0  ~/alx-low_level_programming/3-main_a.c
 |4,39,1,0,1694953978,"~/alx-low_level_programming/3-main_a.c"
 -'  1  0  ~/alx-low_level_programming/3-main_a.c
@@ -134,6 +164,54 @@
 |4,39,17,0,1694951774,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c"
 -'  17  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c
 |4,39,17,0,1694951774,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c"
+-'  17  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c
+|4,39,17,0,1694951774,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c"
+-'  17  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c
+|4,39,17,0,1694951774,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c"
+-'  17  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c
+|4,39,17,0,1694951774,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c"
+-'  17  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c
+|4,39,17,0,1694951774,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c"
+-'  17  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c
+|4,39,17,0,1694951774,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c"
+-'  17  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c
+|4,39,17,0,1694951774,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c"
+-'  17  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c
+|4,39,17,0,1694951774,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c"
+-'  17  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c
+|4,39,17,0,1694951774,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/0-main.c"
+-'  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+|4,39,20,0,1694951602,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
+-'  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+|4,39,20,0,1694951602,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
+-'  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+|4,39,20,0,1694951602,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
+-'  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+|4,39,20,0,1694951602,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
+-'  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+|4,39,20,0,1694951602,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
+-'  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+|4,39,20,0,1694951602,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
+-'  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+|4,39,20,0,1694951602,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
+-'  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+|4,39,20,0,1694951602,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
+-'  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+|4,39,20,0,1694951602,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
+-'  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+|4,39,20,0,1694951602,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
+-'  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+|4,39,20,0,1694951602,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
+-'  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+|4,39,20,0,1694951602,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
+-'  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+|4,39,20,0,1694951602,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
+-'  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+|4,39,20,0,1694951602,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
+-'  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+|4,39,20,0,1694951602,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
+-'  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
+|4,39,20,0,1694951602,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
 -'  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
 |4,39,20,0,1694951602,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c"
 -'  20  0  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-main.c
@@ -212,86 +290,12 @@
 |4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
 -'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
 |4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
--'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
-|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
--'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
-|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
--'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
-|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
--'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
-|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
--'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
-|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
--'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
-|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
--'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
-|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
--'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
-|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
--'  6  32  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h
-|4,39,6,32,1694951586,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/main.h"
--'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
-|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
--'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
-|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
--'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
-|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
--'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
-|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
--'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
-|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
--'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
-|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
--'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
-|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
--'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
-|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
--'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
-|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
--'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
-|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
--'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
-|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
--'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
-|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
--'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
-|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
--'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
-|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
--'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
-|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
--'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
-|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
--'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
-|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
--'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
-|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
--'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
-|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
--'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
-|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
--'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
-|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
--'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
-|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
--'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
-|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
--'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
-|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
--'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
-|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
--'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
-|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
--'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
-|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
--'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
-|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
--'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
-|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
--'  10  21  ~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c
-|4,39,10,21,1694951571,"~/alx-low_level_programming/0x01-variables_if_else_while/0x03-debugging/2-largest_number.c"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/COMMIT_EDITMSG
+	*	1694957409	0
+	"	1	0
 
 > ~/alx-low_level_programming/3-print_remaining_days.c
 	*	1694954124	0
@@ -1212,10 +1216,3 @@
 	^	1	7
 	.	1	0
 	+	1	0
-
-> ~/alx-system_engineering-devops/0x02-shell_redirections/10-no_more_js.sh
-	*	1693839232	0
-	"	3	44
-	^	3	45
-	.	3	45
-	+	3	45
