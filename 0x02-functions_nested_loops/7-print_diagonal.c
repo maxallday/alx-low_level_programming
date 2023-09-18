@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include "main.h"
 /* Prototype of _putchar function*/
 int _putchar(char c);
 

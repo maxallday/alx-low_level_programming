@@ -1,6 +1,6 @@
 /*function that draws a straight line in the terminal using C language. */
 #include <stdio.h>
-
+#include "main.h"
 int _putchar(char c);
 void print_line(int n)
 {

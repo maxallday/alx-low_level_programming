@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include "main.h"
 /* Program that prints FizzBuzz*/
 int main(void)
 {

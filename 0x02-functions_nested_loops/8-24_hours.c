@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include "main.h"
 void jack_bauer(void)
 {
     int hour;
